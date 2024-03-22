@@ -5,7 +5,7 @@ class Calculator {
 
     constructor(batteryMax: number) {
         //todo
-        this.display = 0;
+        this.display = 7;
     }
 
     chargeBattery(value: number): void {
